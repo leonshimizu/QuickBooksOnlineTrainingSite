@@ -486,7 +486,7 @@ function App() {
               https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform
             */}
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSecEcqhp4ZpF06Kifg0UjNSWVxvsHekd2CVyUkWYue-mdYOaQ/viewform?usp=header"
+              href="https://forms.gle/rLRuXmcC8CpKr1Mg8"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-[#c0954f] text-white px-6 py-3 md:px-8 md:py-4 rounded-full font-semibold
