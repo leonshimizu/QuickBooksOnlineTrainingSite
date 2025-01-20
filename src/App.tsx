@@ -173,12 +173,12 @@ function App() {
                     Led by Dafne Mansapit-Shimizu, CPA, MPA
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
-                    With over two decades of experience in accounting and
-                    QuickBooks implementation, Dafne has helped hundreds of
-                    businesses optimize their financial operations. Her
-                    expertise spans across various industries, making her
-                    uniquely qualified to address diverse business needs and
-                    scenarios.
+                    With over three decades of experience in accounting and
+                    QuickBooks implementation, Dafne has been successful at helping
+                    organizations both in the public and private sectors optimize
+                    their financial operations. Her expertise spans across various
+                    industries, making her uniquely qualified to address diverse
+                    business needs and scenarios.
                   </p>
                 </div>
                 <div className="bg-gray-50 p-4 md:p-6 rounded-xl">
@@ -481,10 +481,6 @@ function App() {
               required documents. You’ll be asked to sign in with a Google
               account to complete the file upload.
             </p>
-            {/* 
-              Update the link below with your actual Google Forms link, e.g.: 
-              https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform
-            */}
             <a
               href="https://forms.gle/rLRuXmcC8CpKr1Mg8"
               target="_blank"
