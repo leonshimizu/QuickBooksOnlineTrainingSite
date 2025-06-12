@@ -443,62 +443,7 @@ function App() {
                 </ul>
               </div>
 
-              <div className="space-y-4">
-                <div className="bg-white/50 p-4 md:p-6 rounded-xl">
-                  <p className="font-semibold text-lg mb-4">
-                    Option A: Course Only
-                  </p>
-                  <div className="space-y-2 text-gray-600">
-                    <div className="flex items-start">
-                      <Calendar
-                        className="text-[#11439e] mr-3 mt-1 flex-shrink-0"
-                        size={18}
-                      />
-                      <span>
-                        February 3 &amp; 10, 2025 (Mondays 6-8 p.m. ChST)
-                      </span>
-                    </div>
-                    <div className="flex items-start">
-                      <DollarSign
-                        className="text-[#11439e] mr-3 mt-1 flex-shrink-0"
-                        size={18}
-                      />
-                      <span>
-                        $650 (includes Cornerstone QB Online Essentials Guide)
-                      </span>
-                    </div>
-                  </div>
-                </div>
 
-                <div className="bg-white/50 p-4 md:p-6 rounded-xl">
-                  <p className="font-semibold text-lg mb-4">
-                    Option B: Course + Support
-                  </p>
-                  <div className="space-y-2 text-gray-600">
-                    <div className="flex items-start">
-                      <Calendar
-                        className="text-[#11439e] mr-3 mt-1 flex-shrink-0"
-                        size={18}
-                      />
-                      <span>February 3, 10, 17, 24, 2025 (6-8 p.m. ChST)</span>
-                    </div>
-                    <div className="flex items-start">
-                      <DollarSign
-                        className="text-[#11439e] mr-3 mt-1 flex-shrink-0"
-                        size={18}
-                      />
-                      <span>
-                        $1,200 (includes Guide + 4 hours one-on-one support)
-                      </span>
-                    </div>
-                    <p className="text-sm mt-2 ml-7">
-                      Support includes dedicated one-on-one time with our expert
-                      to help set up your QuickBooks account and address
-                      specific questions.
-                    </p>
-                  </div>
-                </div>
-              </div>
             </div>
 
             {/* QuickBooks Online Advanced */}
@@ -548,33 +493,7 @@ function App() {
                 </ul>
               </div>
 
-              <div className="bg-white/50 p-4 md:p-6 rounded-xl">
-                <p className="font-semibold text-lg mb-4">
-                  Schedule &amp; Details:
-                </p>
-                <div className="space-y-2 text-gray-600">
-                  <div className="flex items-start mb-3">
-                    <Calendar
-                      className="text-[#11439e] mr-3 mt-1 flex-shrink-0"
-                      size={18}
-                    />
-                    <span>4 weeks - March 2025 (6-8 p.m. ChST)</span>
-                  </div>
-                  <ul className="space-y-2 ml-8">
-                    <li>Week 1: March 10 (Monday)</li>
-                    <li>Week 2: March 17 (Monday)</li>
-                    <li>Week 3: March 25 (Tuesday)</li>
-                    <li>Week 4: March 31 (Monday)</li>
-                  </ul>
-                  <div className="flex items-start mt-3">
-                    <DollarSign
-                      className="text-[#11439e] mr-3 mt-1 flex-shrink-0"
-                      size={18}
-                    />
-                    <span>$1,200 (includes Advanced QB Guide)</span>
-                  </div>
-                </div>
-              </div>
+
             </div>
           </div>
         </div>
